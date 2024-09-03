@@ -1,0 +1,28 @@
+.list{
+background-color:rgb(171, 162, 162);
+display:flex;
+justify-content: center;
+align-items: center;
+margin:0.5rem;
+padding:0.8rem;
+border-radius: 0.4rem;
+justify-content: space-between;
+
+}
+.list:hover{
+    background-color: black;
+    color: white;
+}
+.list p{
+    opacity: 0.8;
+}
+.btn {
+    border:none;
+    background-color: transparent;
+    color:rgb(97, 16, 16);
+    cursor: pointer;
+
+}
+.btn:hover{
+    color:red
+}

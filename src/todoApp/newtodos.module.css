@@ -1,0 +1,46 @@
+.field{
+  background-color: rgb(127, 85, 85);
+ padding:0.5rem;
+ margin:0.5rem;
+ width: 50%;
+ color :rgb(254, 253, 253);
+ border-radius: 0.5rem;
+
+}
+.field-form{
+
+margin:1rem;
+display: flex;
+
+}
+.field-form label{
+    flex-basis: 20%;
+}
+.field-form input{
+    flex-basis: 80%;
+    resize: none;
+    
+    border-radius: 0.5rem;
+    padding: 0.2rem;
+}
+
+.field-form textarea{
+    flex-basis:80%;
+    resize: none;
+    
+    border-radius: 0.5rem;
+    padding: 0.2rem;
+}
+
+button{
+    border-radius: 0.8rem;
+    background-color:rgb(200, 200, 179);
+    color:black;
+    justify-content: center;
+    border: none;
+    width:50%;
+    cursor: pointer;
+   display: block;
+   margin:0 auto
+  
+}

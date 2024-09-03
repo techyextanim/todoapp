@@ -1,0 +1,11 @@
+.todos{
+
+background-color: beige;
+height: 60vh;
+width: 50%;
+overflow: scroll;
+padding: 0.9em;
+border-radius: 0.8rem;
+color: black;
+
+}
